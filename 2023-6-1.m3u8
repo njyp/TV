@@ -50,7 +50,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png"group-title="🔆卫视",东方卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png"group-title="🔆卫视",四川卫视
-http://[2409:8087:4402:20:1:1216:401:11]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001130/index.m3u8?
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png"group-title="🔆卫视",天津卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png"group-title="🔆卫视",安徽卫视
@@ -64,15 +64,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw2325655923_1638953995
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png"group-title="🔆卫视",江苏卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png"group-title="🔆卫视",江西卫视
-http://[2409:8087:4402:20:1:1216:401:3e]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226594/index.m3u8
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001034/index.m3u8?
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png"group-title="🔆卫视",河北卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png"group-title="🔆卫视",河南卫视
-http://[2409:8087:4402:20:1:1216:401:41]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001222/index.m3u8?
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png"group-title="🔆卫视",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png"group-title="🔆卫视",海南卫视
-http://[2409:8087:4402:20:1:1216:401:15]:80/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226417/index.m3u8
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001183/index.m3u8?
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png"group-title="🔆卫视",深圳卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png"group-title="🔆卫视",湖北卫视
