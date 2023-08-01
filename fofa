@@ -1,9 +1,15 @@
 fofa脚本
 
 443端口新加坡：  server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="sg"    
+
                server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="jp" 
+
                server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="tw" 
-               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="hg"
+
+               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="hk"
+
 剔除CF：server=="cloudflare"&&port=="80"&&header="Forbidden"&&country=="us"&&asn!"13335"&&asn!="209242"
+
 阿里云： server=="cloudflare"&&asn=="45102"
+
 甲骨文韩国：server=="cloudflare"&&asn=="31898"&&country=="KR"  
