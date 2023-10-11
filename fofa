@@ -13,3 +13,12 @@ fofa脚本
 阿里云： server=="cloudflare"&&asn=="45102"
 
 甲骨文韩国：server=="cloudflare"&&asn=="31898"&&country=="KR"  
+
+
+clash verge下载：https://github.com/zzzgydi/clash-verge/releases
+clash verge 内核替换 clash.exe：https://github.com/Dreamacro/clash/releases
+
+替换clash-meta.exe：https://github.com/MetaCubeX/Clash.Meta/releases
+
+v2rayn下载：https://github.com/2dust/v2rayN/releases
+内核替换：https://github.com/apernet/hysteria/releases/
