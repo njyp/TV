@@ -2,13 +2,15 @@ fofa脚本
 
 美国地区cf反代ip查询代码：server=="cloudflare" && port=="80" && header="Forbidden" && country=="US" && asn!="13335" && asn!="209242"
 
-443端口新加坡：  server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="sg"    
+443端口新加坡：  server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="sg" && title!="403 Forbidden"    
 
-               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="jp" 
+               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="jp" && title!="403 Forbidden"
 
-               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="tw" 
+               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="tw" && title!="403 Forbidden"
 
-               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="hk"
+               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="hk" && title!="403 Forbidden"
+
+               server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="KR" && title!="403 Forbidden"
 
 阿里云： server=="cloudflare"&&asn=="45102"
 
