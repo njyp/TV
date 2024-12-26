@@ -12,7 +12,9 @@ fofa脚本
 
                server=="cloudflare"&&port=="443"&&header="Forbidden"&&country=="KR" && title!="403 Forbidden"
 
-server=="cloudflare" && asn!="13335" && region="HK" && header="Forbidden" && port=="443" && title!="403 Forbidden"
+server=="cloudflare" && asn!="13335" && region="HK" && header="Forbidden" && port=="443" 
+
+server=="cloudflare" && asn!="13335" && header="Forbidden" && port=="443" && country="JP"
 
 server=="cloudflare" && is_domain=false && banner="CF-RAY: -" && banner="Content-Length: 155" && banner="HTTP/1.1 400 Bad Request" && protocol="http" && port=="443" && country=="SG"
 
